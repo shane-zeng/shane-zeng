@@ -34,8 +34,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/shane-zeng">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shane-zeng&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=shane-zeng&&style=flat-square" />
 </a>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=shane-zeng&&style=flat-square" align="center" />
-</div>  
