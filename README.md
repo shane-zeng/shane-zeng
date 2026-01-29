@@ -41,7 +41,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🌐 Infrastructure & Tools</b></summary>
 <br>
 <p align="left">
