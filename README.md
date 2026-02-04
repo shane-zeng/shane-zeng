@@ -10,23 +10,6 @@
 
 <br>
 
-## 🛠️ Professional Summary
-
-<table border="0">
-  <tr>
-    <td width="65%" style="vertical-align: top; line-height: 1.75;">
-      I have accumulated <b>5 to 6 years</b> of backend development experience, specializing in the <b>PHP, Laravel, and MySQL</b> ecosystem. My expertise extends to search engine technologies like <b>Elasticsearch</b> and cloud platforms such as <b>GCP and AWS</b>. 
-      <br><br>
-      My core competencies include leading <b>legacy system migrations (Yii to Laravel)</b>, implementing <b>Infrastructure as Code (AWS CDK)</b>, and establishing <b>GitOps (ArgoCD)</b> automated deployment workflows. I believe every professional challenge is a catalyst for growth, striving for architectural excellence with the same precision I apply to refactoring code for perfection.
-    </td>
-    <td width="35%" align="center" style="vertical-align: middle;">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br clear="both">
-
 ## 💻 Technical Stack
 
 <details open>
