@@ -41,7 +41,7 @@
 <table align="center">
   <tr>
     <td align="center" style="vertical-align: middle;">
-      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shane-zeng&show_icons=true&theme=radical&count_private=true" alt="Github Stats" />
+      <img height="180" src="https://github-stats-extended.vercel.app/api?username=shane-zeng&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical" alt="Github Stats" />
     </td>
     <td align="center" style="vertical-align: middle;">
       <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=shane-zeng&layout=compact&langs_count=6&theme=radical&hide=html,css,jupyter%20notebook,blade,javascript,typescript,makefile,dockerfile,shell,vue" alt="Top Languages" />
